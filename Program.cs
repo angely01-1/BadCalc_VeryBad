@@ -12,7 +12,7 @@ namespace BadCalcVeryBad
 
     public class Globals
     {
-        // Se reemplazo el  ArrayList por List<string> más seguro.
+        // Se reemplazo el  ArrayList por List<string> más seguro...
         // Se hace privada y expuesta mediante propiedad.
         private readonly List<string> _history = new List<string>();
 
